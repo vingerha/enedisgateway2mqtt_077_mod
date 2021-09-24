@@ -20,6 +20,7 @@ To generate ACCESS_TOKEN :
 
 **Activation is only valid for 1 year.**
 
+
 ## Enedis Gateway limit
 
 Enedis Gateway limit to 50 call per day / per pdl.
