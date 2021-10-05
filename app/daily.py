@@ -26,7 +26,6 @@ def getDaily(cur, client, mode="consumption", last_activation_date=datetime.now(
 
     lastYears = datetime.now() + relativedelta(years=-1)
     dateBegin = lastYears.strftime('%Y-%m-%d')
-    # dateEnded = datetime.now() + relativedelta(days=-1)
     dateEnded = datetime.now()
     dateEnded = dateEnded.strftime('%Y-%m-%d')
 
