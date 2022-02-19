@@ -1,4 +1,4 @@
-# EnedisGateway2MQTT, forked from teh great work by Madmratigan
+# EnedisGateway2MQTT, forked from the great work by Madmartigan
 # improvements on HA side, linky-card now shows correct %
 # added 'hourly' sensor
 
